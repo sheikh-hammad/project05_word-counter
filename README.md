@@ -1,0 +1,1 @@
+A simple cli based word counter using Typescript, Node JS, and Inquirer
