@@ -1,6 +1,6 @@
 {
   "name": "sheikh_hammad-word-counter",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "A simple cli based word counter using Typescript, Node JS, and Inquirer",
   "main": "index.js",
   "type": "module",
